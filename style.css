@@ -1,0 +1,471 @@
+*{
+    /* margin: 0; */
+}
+#d1{
+    margin-top: -22px;
+}
+
+#ul{
+    list-style-type: none;
+    display: flex;
+    margin-top: 20px;
+    gap: 28px;
+}
+nav{
+    
+    display:flex;
+}
+#s1{
+    margin-top: -30px;
+}
+.p1{
+    margin-top: -400px;
+    margin-left: 10px;
+    color:rgba(255,255,255,0.75);
+    font-size: 16px;
+    font-family: "oneplus sans Regular","Helvetica Neue",Arial ,sass-serif ,syste,-ui;
+    padding: 20px;
+    font-weight: 400;
+}
+.p2{
+    color:rgba(255,255,255,0.95);
+    font-size: 35px;
+    font-family: "oneplus sans Regular","Helvetica Neue",Arial ,sass-serif ,syste,-ui;
+    padding-left: 25px;
+    margin-top: -30px;
+}
+.p3{
+    color:rgba(255,255,255,0.95);
+    font-size: 18px;
+    font-family: "oneplus sans Regular","Helvetica Neue",Arial ,sass-serif ,syste,-ui;
+    padding-left: 25px;
+    margin-top: 130px;
+}
+.p4{
+    color:rgba(255,255,255,0.95);
+    font-size: 18px;
+    font-family: "oneplus sans Regular","Helvetica Neue",Arial ,sass-serif ,syste,-ui;
+    padding-left: 25px;
+    margin-top: 10px;
+}
+.p5{
+    color:rgba(255,255,255,0.95);
+    font-size: 18px;
+    font-family: "oneplus sans Regular","Helvetica Neue",Arial ,sass-serif ,syste,-ui;
+    padding-left: 25px;
+    margin-top: 10px;
+}
+
+button:hover{
+    background-color:rgb(237, 226, 226);
+}
+   
+.p6{
+    color:rgba(0,0,0,0.95);
+    font-size: 15px;
+    font-family: "oneplus sans Regular","Helvetica Neue",Arial ,sass-serif ,syste,-ui;
+    margin-left: 25px;
+    margin-top: 10px;
+    height: 30px;
+    width: 140px;
+    line-height: 20px;
+    
+
+}
+
+
+.p7{
+    margin-left: 20px;
+    color: white;
+}
+
+/* 2nd section!!!!!!!!!! */
+#pic2{
+     margin-top: 50px;
+    margin-left: 10px;
+}
+.p8{
+    font-family: "oneplus sans Regular","Helvetica Neue",Arial ,sass-serif ,syste,-ui;
+    font-size: 25px;
+    margin-top: -90px;
+    padding-left: 30px;
+    
+}
+.p9{
+    font-family: "oneplus sans Regular","Helvetica Neue",Arial ,sass-serif ,syste,-ui;
+    margin-top: -10px;
+    padding-left: 30px;
+}
+.s2{
+    display: flex;
+}
+#pic3{
+   margin-top: 50px;
+   margin-left: 20px;
+}
+.p10{
+    font-family: "oneplus sans Regular","Helvetica Neue",Arial ,sass-serif ,syste,-ui;
+    font-size: 35px;
+    margin-top: -100px;
+    margin-left: 25px;
+    color: rgb(255, 252, 252);
+
+
+}
+.p11{
+    margin-top: -20px;
+    color: rgb(255, 252, 252);
+    margin-left: 25px;
+    font-size: 15px;
+    font-family: "oneplus sans Regular","Helvetica Neue",Arial ,sass-serif ,syste,-ui;
+    /* font-size: 35px; */
+}
+
+/* 3rdimagessss!!!! */
+.s3{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+     display: flex; 
+    
+}
+#p12{
+    margin-left: 3px;
+    /* font-family:Alegrey,aital ; */
+    height: 250px;
+    width: 250px;
+}
+#p13{
+    /* display: flex; */
+   margin-right: 35px;
+   margin-top:12px ;
+   padding: 5px;
+   position: relative;
+}
+#p14{
+    margin-right:25px;
+   margin-top:12px ;
+   padding: 5px;
+   position: relative;
+}
+#p15{
+    margin-right: 25px;
+   margin-top:12px ;
+   padding: 5px;
+   position: relative;
+}
+
+/* !!!!!!section4!!!! */
+
+.section-4{
+    margin-top: 20px;
+}
+ 
+.container-4{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    background-color: rgba(58, 58, 58, 0.897);
+
+}
+.content-4{
+    width: 100%;
+}
+
+.deena{
+    width: 500px;
+    display: block;
+}
+.content-4 .deena{
+    position: sticky;
+    top: 0;
+}
+.content-4 .p-4{
+    position: sticky;
+    top: 0;
+    font-family:"Bona Nova SC", serif;
+    width: 300px;
+    color:white ;
+    margin-left: 50px;
+    height: 100px;
+    padding-top: 25px;
+
+}
+
+
+   
+
+
+/* !!!!!!!!!sec5!!!!!!! */
+
+    #s5{ 
+        margin-top: 10px;
+        background-color: rgb(255, 255, 255);
+
+    }
+
+   
+ #p16{
+    padding: 10px;
+}
+.wrapper{
+    display: flex;
+   
+    /* width: 70px; */
+
+
+}
+.card{
+    position: relative;
+   /* margin-left: 40px; */
+   width: 300px;
+   height: 400px;
+   padding: 2rem 1rem;
+   background-color:#fff;
+   /* align-items: flex-end; */
+   box-shadow: 0px 7px 10px rgba(0,0,0,0.5);
+   transition: 0.5s ease-in-out;
+   
+    
+
+
+}
+.card:hover{
+    transform: translatex(30px);
+    zoom: 1.2;
+    z-index: 1;
+
+}
+
+/* !!!!!!sec6!!!!!!! */
+
+#s6{
+    margin-top: 20px;
+    background-color: rgb(32, 66, 66);
+    color: #fff;
+}
+#p18{
+    width: 200px;
+    height: 300px;
+    position: relative;
+    top: 90px;
+   margin-left: 500px;
+   /* border: 2px solid; */
+}
+
+#P22{
+   margin-left: 50px;
+    margin-top: -170px;
+
+   
+}
+#p19{
+    width: 200px;
+    height: 300px;
+    position: relative;
+    top: 90px;
+    margin-left: 400PX;
+}
+#p23{
+    margin-top: -100px;
+}
+
+
+
+
+ #p20{
+    width: 200px;
+    height: 300px;
+    position: relative;
+   top: 70px;
+    margin-left: 250px;
+}
+#p24{
+    
+    margin-top: -50px;
+    margin-left: 500px;
+}
+#pl1{
+    margin-top: -20px;
+    margin-left: 500px;
+}
+
+#p21{
+    width: 200px;
+    height: 300px;
+    position: relative;
+    top: 10px;
+    margin-left: 100px;
+}
+#p25{
+    margin-left: 400px;
+    margin-top: -100px;
+    position: relative;
+    height: 105px;
+}
+#pl2{
+margin-left:400px ;
+margin-top: -20px;
+}
+
+/* !!!!!!!!sec7!!!!!!! */
+
+.s7{
+    background-color: black;
+}
+.d7{
+    padding-top: 25px;
+    /* background-color: black; */
+    display: flex;
+    justify-content: space-around;
+}
+.f1{
+    color: #fff;
+    padding-left: 30px;
+}
+.pf3 {
+    color: rgb(97, 97, 97);
+}
+.pf3:hover{
+    color: #fff;
+}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+.f2{
+    color: #fff;
+    padding-left: 30px;
+}
+.pf4{
+    color: rgb(97, 97, 97);
+}
+.pf4:hover{
+    color: #fff;
+}
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+.f3{
+    color: #fff;
+    padding-left: 30px;
+}
+.pf5{
+    color: rgb(97, 97, 97);
+}
+.pf5:hover{
+    color: #fff;
+}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.f4{
+    color: #fff;
+    padding-left: 30px;
+}
+.pf6{
+    color: rgb(97, 97, 97);
+}
+.pf6:hover{
+    color: #fff;
+}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!! */
+.f5{
+    color: #fff;
+    padding-left: 30px;
+}
+.pf7{
+    color: rgb(97, 97, 97);
+}
+.pf7:hover{
+    color: #fff;
+}
+.de1{
+    color: #fff;
+}
+
+/* !!!!!!!!!!!!!!!!!! */
+.icon1{
+    padding-top: 40px;
+    color: #fff;
+    padding-left: 30px;
+}
+#i1{
+    color: rgb(97, 97, 97);
+}
+
+#i2{
+    margin-left: 50px;
+    color: rgb(97, 97, 97);
+}
+#i3{
+    margin-left: 50px;
+    color: rgb(97, 97, 97);
+}
+#i4{
+    margin-left: 50px;
+    color: rgb(97, 97, 97);
+}
+#i5{
+    margin-left: 120px;
+    color: rgb(97, 97, 97);
+}
+#i5:hover{
+    color: #fff;
+}
+#i6{
+    margin-left: 20px;
+    color: rgb(97, 97, 97);
+}
+#i6:hover{
+    color: #fff;
+}
+#i7{
+    margin-left:20px;
+    color: rgb(97, 97, 97);
+}
+#i7:hover{
+    color: #fff;
+}
+#i8{
+    margin-left: 760px;
+    font-size: 20px;
+   position: relative;
+   margin-top: -18px;
+}
+
+#hr{
+    
+    color: rgb(78, 78, 78);
+    border: 1px solid;
+    width: 800px;
+}
+.lc{
+    display: inline-flex;
+    color: rgb(97, 97, 97);
+    /* justify-content: space-between; */
+}
+.d{
+    margin-left: 5px;
+}
+.dd{
+   margin-left: 15px;
+}
+.ddd{
+    margin-left: 20px;
+}
+.dddd{
+    margin-left: 25px;
+}
+.ddddd{
+    margin-left: 30px;
+}
+.ddddddd{
+    margin-left: 80px;
+    color: #fff;
+}
+.i9{
+    position: relative;
+    padding: 5px;
+}
+#i10{
+    color: rgb(78, 78, 78);
+   margin-top: -10px;
+}
